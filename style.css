@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    align-items: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    margin: 40px;
+}
+
+.major{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.head{
+    text-align: center;
+}
+
+.pink{
+    background-color: rgb(227, 105, 125);
+}
+
+.green{
+    background-color: rgb(46, 209, 46);
+}
+
+.blue{
+    background-color: rgb(62, 62, 241);
+}
+
+.yellow{
+    background-color: rgb(226, 226, 26);
+}
